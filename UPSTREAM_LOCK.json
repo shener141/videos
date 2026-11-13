@@ -1,0 +1,28 @@
+[
+  {
+    "repository": "heygen-com/hyperframes",
+    "commit": "d208281091b1c00db1724a2ee3db0055955eb41b",
+    "license_files": [
+      "LICENSE"
+    ]
+  },
+  {
+    "repository": "remotion-dev/skills",
+    "commit": "7e541aa4d7361dfaca0780a565a47307eb7bdfbb",
+    "license_files": []
+  },
+  {
+    "repository": "artemnovitckii/claude-animation-skills",
+    "commit": "5dbea55c23aa6a5c93dc3cfb5583840513b56b94",
+    "license_files": [
+      "LICENSE"
+    ]
+  },
+  {
+    "repository": "emilkowalski/skills",
+    "commit": "f7ce8c02d6e3c8f0d980a44c57bcc41a40254349",
+    "license_files": [
+      "LICENSE"
+    ]
+  }
+]
